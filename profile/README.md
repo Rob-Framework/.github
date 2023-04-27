@@ -2,6 +2,12 @@
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Background](#background)
+- [Information](#information)
+- [Demos](#demos)
+- [Documentation](#documentation)
 
-## Background
+## Information
+
+## Demos
+
+## Documentation
