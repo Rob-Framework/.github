@@ -11,3 +11,6 @@
 ## Demos
 
 ## Documentation
+Rob framework consists of 2 parts, the:
+* [Client App](https://github.com/Rob-Framework/Client)
+* [Server App](https://github.com/Rob-Framework/Server)
