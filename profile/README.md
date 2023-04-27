@@ -6,6 +6,7 @@
 - [Information](#information)
 - [Demos](#demos)
 - [Documentation](#documentation)
+- [Social Media](#social-media)
 
 ## Information
 
@@ -15,3 +16,6 @@
 Rob framework consists of 2 parts, the:
 * [Client App](https://github.com/Rob-Framework/Client)
 * [Server App](https://github.com/Rob-Framework/Server)
+
+## Social Media
+* [Discord](https://discord.gg/eUAVECC8zg)
